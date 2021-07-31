@@ -1,0 +1,46 @@
+{
+	"basics": {
+		"name": "Shalin Gupta",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kuec2032@iiitkota.ac.in",
+		"phone": "8764179585",
+		"website": "",
+		"summary": "A student of Electronics and Communication at IIIT, Kota with keen Interest learning new things",
+		"location": {
+			"address": "D-69 Indra Vihar",
+			"postalCode": "324005",
+			"city": "Kota",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Shalingupta",
+				"url": "https://www.github.com/Shalingupta/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/shalin-gupta-b4984820a"
+			},
+		]
+	},
+	"work": [],
+	"volunteer": [],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "2023",
+		"gpa": "8.04",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"awards": [],
+	"publications": [],
+	"references": []
+}
